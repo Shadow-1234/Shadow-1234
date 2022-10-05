@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shadow-1234
-- 👀 I’m interested in making discord bots
-- 🌱 I’m currently learning node.js and bash
+- 👀 Creating websites
+- 🌱 I’m currently learning python
 - 📫 How to reach me - my contact email ankitsaikia466@gmail.com
